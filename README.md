@@ -38,9 +38,11 @@ The following model represents Binary Tree corresponding to the rules described 
 This test compares data structures from the images above.
 
 2. FirstTest (.java file)
+
 In this test 3 data structures are compared.
 
 3. SecondTest (.java file)
+
 In this test 5 another data structures are compared.
 Also there's additional method (public void readFromFile(String path)) to insert elements into Binary Tree by reading them from file.
 	
