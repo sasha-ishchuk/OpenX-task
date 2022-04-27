@@ -28,10 +28,13 @@ This implementation provide a Binary Tree in wich every rigth children is greate
 The project includes 3 tests (each of them uses different data to show how the methods work and verify their correctness):
 1. TestForExample (.java file)
 In task's example is represented the following model:
-![OpenX example](https://raw.githubusercontent.com/sasha-ishchuk/OpenX-task/main/images/example.jpg)
+![OpenX example](./images/example.jpg)
+
 This example do not match up to the rules of implemented data structure. However elements were added to the Binary Tree manually. 
+
 The following model represents Binary Tree corresponding to the rules described above (with the same data as in task's example):
 ![Binary Tree](./images/tree.jpg)
+
 This test compares data structures from the images above.
 
 2. FirstTest (.java file)
