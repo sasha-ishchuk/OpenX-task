@@ -16,7 +16,7 @@ Binary Tree is a data sctructure in wich ech node (parent-node) have at most two
 This implementation provide a Binary Tree in wich every rigth children is greater or equal to its parent and every left children is smaller than its parent.
 
 ### Features
-| Feature desribtion               | Public method           | Private method  |
+| Feature describtion               | Public method           | Private method  |
 |:-------------------------------- |:-----------------------|:---------------|
 | Add element to Binary Tree| void insert(int element) |Node insertNode(Node node, int element)|
 | Calculate the number of nodes that do not have any children | int nodeWithoutChildren() | int withoutChildren(Node node) |
